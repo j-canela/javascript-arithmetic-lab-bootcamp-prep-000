@@ -21,4 +21,7 @@ function inc(n)(
     
   }
   
-  function
+  function makeInt(n){
+    
+  }
+  
