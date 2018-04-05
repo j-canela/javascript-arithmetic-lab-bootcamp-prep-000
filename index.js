@@ -27,6 +27,6 @@ function inc(n){
   }
   
   function preserveDecimal(n){
-    return parse
+    return parseFloat(n)
   }
   
